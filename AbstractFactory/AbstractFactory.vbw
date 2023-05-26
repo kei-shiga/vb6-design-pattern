@@ -1,0 +1,11 @@
+Sample = 50, 50, 1399, 710, C
+Client = 75, 75, 1424, 735, C
+ConcreteFactory2 = 139, 126, 1488, 786, C
+ConcreteFactory1 = 159, 148, 1508, 808, C
+IAbstractFactory = 254, 178, 1603, 838, C
+ConcreteProductB2 = 200, 200, 1549, 860, C
+ConcreteProductB1 = 212, 209, 1561, 869, C
+ConcreteProductA2 = 250, 250, 1599, 910, C
+ConcreteProductA1 = 275, 275, 1624, 935, C
+IProductA = 300, 300, 1649, 960, C
+IProductB = 0, 0, 1349, 660, C
